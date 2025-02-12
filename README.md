@@ -8,7 +8,7 @@
 
 ###
 
-<h2>1️⃣ Fundamental Technologies (Core Web & Programming Basics)</h2>
+<h2>Fundamental Technologies (Core Web & Programming Basics)</h2>
 <div align="left">
 <img width="12" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3"  />
@@ -51,6 +51,34 @@
 </div>
 <br />
 
+<h2>Backend Frameworks & Libraries</h2>
+<div align="left">
+<img width="12" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="NodeJS"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="30" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30" alt="Express.js"  />
+  
+</div>
+<br />
+
+<h2>Databases & ORMs</h2>
+<div align="left">
+<img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="Postgres"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="30" alt="Prisma"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="30" alt="Sequelize"  />
+  
+</div>
+<br />
+
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS"  />
   <img width="12" />
@@ -72,29 +100,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" height="30" alt="Chart.js"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30" alt="Express.js"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="30" alt="jQuery"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="30" alt="NestJS"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="NodeJS"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="30" alt="Redux" />
   <img width="12" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="30" alt="Firebase"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="Postgres"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="30" alt="Prisma"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="30" alt="Sequelize"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="30" alt="GitLab CI"  />
   <img width="12" />
