@@ -76,7 +76,6 @@
 
 <h2>Full-stack & Deployment Platforms</h2>
 <div align="left">
-<img width="12" />
   <img width="12" />
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="30" alt="Firebase"  />
   <img width="12" />
@@ -107,7 +106,6 @@
 
 <h2>API & Data Visualization</h2>
 <div align="left">
-<img width="12" />
   <img width="12" />
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" height="30" alt="Swagger"  />
   <img width="12" />
@@ -116,7 +114,6 @@
 
 <h2>Shopify</h2>
 <div align="left">
-<img width="12" />
   <img width="12" />
   <img src="https://img.shields.io/badge/-shopifytheme-%23Clojure?style=for-the-badge&logo=shopifytheme&logoColor=white" height="30" alt="Shopify theme"  />
   <img width="12" />
