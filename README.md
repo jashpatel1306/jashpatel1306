@@ -1,12 +1,43 @@
-<h3 align="left">Hi 👋! My name is Jash and I'm a Software Engineer from India</h3>
+<h3 align="left">Hi 👋! My name is Jash and I'm a Software Engineer (Full stack and Shopify Engineer) from India</h3>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mackhemss/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/jashpatel1306/count.svg?"  />
 </div>
 
 ###
+
+<h2>Web & Programming Basics</h2>
+<div align="left">
+<img width="12" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap"  />
+    <img width="12" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="JavaScript"  />
+<img width="12" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="Typescript"  />
+<img width="12" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
+
+</div>
+<br />
+<h2>Shopify</h2>
+<div align="left">
+<img width="12" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap"  />
+    <img width="12" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="JavaScript"  />
+<img width="12" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="Typescript"  />
+<img width="12" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
+
+</div>
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS"  />
@@ -107,8 +138,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashpatel1306&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashpatel1306&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jashpatel1306&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jashpatel1306&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
