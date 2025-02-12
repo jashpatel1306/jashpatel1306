@@ -34,10 +34,22 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" height="30" alt="React Hook Form"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="30" alt="Storybook"  />
-  
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="30" alt="Storybook"  />  
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-shopifypolaris-FF4785?style=for-the-badge&logo=shopifypolaris&logoColor=white" height="30" alt="Shopify Polaris"  />
 </div>
+<br />
 
+<h2>Frontend Frameworks</h2>
+<div align="left">
+<img width="12" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="React"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30" alt="Next JS"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" height="30" alt="Remix"  />
+</div>
+<br />
 
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS"  />
@@ -66,17 +78,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="30" alt="NestJS"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30" alt="Next JS"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="NodeJS"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="React"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="30" alt="Redux" />
   <img width="12" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" height="30" alt="Remix"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="30" alt="Firebase"  />
   <img width="12" />
