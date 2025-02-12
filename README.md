@@ -21,7 +21,6 @@
 <img width="12" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
 </div>
-<br />
 
 <h2>UI Libraries & Frameworks</h2>
 <div align="left">
@@ -38,7 +37,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/-shopifypolaris-FF4785?style=for-the-badge&logo=shopifypolaris&logoColor=white" height="30" alt="Shopify Polaris"  />
 </div>
-<br />
 
 <h2>Frontend Frameworks</h2>
 <div align="left">
@@ -49,7 +47,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" height="30" alt="Remix"  />
 </div>
-<br />
 
 <h2>Backend Frameworks & Libraries</h2>
 <div align="left">
@@ -61,7 +58,6 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30" alt="Express.js"  />
   
 </div>
-<br />
 
 <h2>Databases & ORMs</h2>
 <div align="left">
@@ -77,7 +73,6 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="30" alt="Sequelize"  />
   
 </div>
-<br />
 
 <h2>Full-stack & Deployment Platforms</h2>
 <div align="left">
@@ -96,7 +91,6 @@
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" height="30" alt="Heroku"  />
   
 </div>
-<br />
 
 <h2>DevOps & CI/CD Tools</h2>
 <div align="left">
@@ -110,7 +104,6 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="30" alt="Jira"  />
   
 </div>
-<br />
 
 <h2>API & Data Visualization</h2>
 <div align="left">
@@ -120,7 +113,19 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" height="30" alt="Chart.js"  />
 </div>
-<br />
+
+<h2>Shopify</h2>
+<div align="left">
+<img width="12" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-shopifytheme-%23Clojure?style=for-the-badge&logo=shopifytheme&logoColor=white" height="30" alt="Shopify theme"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/shopifyapps-F5788D.svg?style=for-the-badge&logo=shopifyapps&logoColor=white" height="30" alt="Shopify Apps"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/shopifyfuncations-F5788D.svg?style=for-the-badge&logo=shopifyfuncations&logoColor=white" height="30" alt="Shopify Funcations"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/shopifyheadless-F5788D.svg?style=for-the-badge&logo=shopifyheadless&logoColor=white" height="30" alt="Shopify Headless"  />
+</div>
 
 ###
 
