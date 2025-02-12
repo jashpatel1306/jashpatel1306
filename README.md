@@ -8,7 +8,7 @@
 
 ###
 
-<h2>Web & Programming Basics</h2>
+<h2>1️⃣ Fundamental Technologies (Core Web & Programming Basics)</h2>
 <div align="left">
 <img width="12" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3"  />
@@ -20,22 +20,22 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="Typescript"  />
 <img width="12" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
-
 </div>
 <br />
-<h2>Shopify</h2>
+
+<h2>UI Libraries & Frameworks</h2>
 <div align="left">
 <img width="12" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3"  />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" height="30" alt="Chakra"  />
   <img width="12" />
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap"  />
-    <img width="12" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="JavaScript"  />
-<img width="12" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="Typescript"  />
-<img width="12" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
-
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="30" alt="MUI (Material UI)"  />
+   <img width="12" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="TailwindCSS"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" height="30" alt="React Hook Form"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="30" alt="Storybook"  />
+  
 </div>
 
 
@@ -58,13 +58,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="Typescript"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" height="30" alt="Chakra"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" height="30" alt="Chart.js"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30" alt="Express.js"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="30" alt="MUI"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="30" alt="jQuery"  />
   <img width="12" />
@@ -76,15 +72,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="React"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" height="30" alt="React Hook Form"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="30" alt="Redux" />
   <img width="12" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30" alt="Styled Components"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" height="30" alt="Remix"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="TailwindCSS"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="30" alt="Firebase"  />
   <img width="12" />
@@ -97,8 +89,6 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="30" alt="Prisma"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="30" alt="Sequelize"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="30" alt="Storybook"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="30" alt="GitLab CI"  />
   <img width="12" />
