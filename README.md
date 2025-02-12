@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Jash and I'm a Software Engineer (Full stack and Shopify Engineer) from India</h3>
+<h3 align="left">Hi 👋! My name is Jash and I'm a Software Engineer (Full stack and Shopify) from India</h3>
 
 ###
 
